@@ -1,5 +1,5 @@
-# Doing_this_again
-Relearning a lost art 
+# Simplified BCPNN implementation
+ 
 My BCPNN implementation
 
 On a very basic level what is being done is implementing the BCPNN (simplified, without including the E-traces) by utilizing the solutions to the differential equations describing the traces. 
